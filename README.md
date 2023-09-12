@@ -1,6 +1,5 @@
 # Widgie
-Widgie helps a user manage their schoolwork and classes through multiple organizational tools. Users are able to get easy access to their course information, store notes, add tasks to a to-do list, and much more. The Widgie application should house all the ‘widgets’ on one main screen - the to-do list, the notepad, and the calculator. When
-the application is opened, the user will be able to access and use any widgets as they need. Widgie is designed to enhance student productivity; since all the widgets are on one single screen, the user will not need to exit out of the application in order to access anything they may need. By allowing the user to stay on one application, it reduces the chance of distractions. 
+Widgie helps users manage their schoolwork and classes with multiple organizational tools. Users can easily access course information, store notes, add tasks to a to-do list, and more. The Widgie application houses all widgets on one main screen, including the to-do list, notepad, and calculator. When the application is opened, users can access and use any widgets they need. Widgie is designed to enhance student productivity; all widgets are on a single screen, eliminating the need to exit the application to access anything. This reduces the chance of distractions.
 
 
 - Check out the Software Design Document [here](https://meli1022.github.io/img/Software%20Design%20Document.pdf). 
